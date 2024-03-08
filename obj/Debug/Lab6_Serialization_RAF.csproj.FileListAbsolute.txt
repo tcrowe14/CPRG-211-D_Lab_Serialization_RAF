@@ -1,0 +1,7 @@
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab6_Serialization_RAF\Lab6_Serialization_RAF\obj\Debug\Lab6_Serialization_RAF.csproj.AssemblyReference.cache
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab6_Serialization_RAF\Lab6_Serialization_RAF\obj\Debug\Lab6_Serialization_RAF.csproj.CoreCompileInputs.cache
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab6_Serialization_RAF\Lab6_Serialization_RAF\bin\Debug\Lab6_Serialization_RAF.exe.config
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab6_Serialization_RAF\Lab6_Serialization_RAF\bin\Debug\Lab6_Serialization_RAF.exe
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab6_Serialization_RAF\Lab6_Serialization_RAF\bin\Debug\Lab6_Serialization_RAF.pdb
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab6_Serialization_RAF\Lab6_Serialization_RAF\obj\Debug\Lab6_Serialization_RAF.exe
+C:\Users\tcrow\Documents\Semester Two\OOP -CPRG-211\Programs\Lab6_Serialization_RAF\Lab6_Serialization_RAF\obj\Debug\Lab6_Serialization_RAF.pdb
